@@ -27,7 +27,7 @@ def get_filters():
             city = city_data[city_name.lower()]
             #City data successfully selected.
         else:
-            print("City name invalid, please enter Chicago, New York City, or Washington.\n")
+            print("City name is invalid, please enter Chicago, New York City, or Washington.\n")
             #City data not successfully selected, loop to start.
 
     # TO DO: get user input for month (all, january, february, ... , june)
