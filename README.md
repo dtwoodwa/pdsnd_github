@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+8/6/2020
 
 ### Project Title
-Replace the Project Title
+Git Project - Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Creating and modifying my first Git repository
 
 ### Files used
-Include the files used
+README.md
+bikeshare.py
+project.gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 
