@@ -13,5 +13,5 @@ bikeshare.py
 project.gitignore
 
 ### Credits
-
-
+Github docs
+https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line
